@@ -1,0 +1,11 @@
+commit a4510639497743344bf06c83f45e745df8854f27
+Author: aarthsda <arthur52codex@gmail.com>
+Date:   Mon Aug 31 20:21:24 2026 -0500
+
+    feat(etapa-1): Cria P├ígina Inicial
+
+commit 63472a837c74ccfc7cb559499450321a6c882267
+Author: Arthur <166435743+aarthsda@users.noreply.github.com>
+Date:   Fri Aug 28 19:22:31 2026 -0500
+
+    Initial commit
